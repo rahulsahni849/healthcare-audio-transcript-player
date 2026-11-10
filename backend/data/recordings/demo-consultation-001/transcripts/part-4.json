@@ -1,0 +1,646 @@
+{
+  "part": 4,
+  "duration": 43.102,
+  "words": [
+    {
+      "word": "I'd",
+      "start": 0.18,
+      "end": 0.378
+    },
+    {
+      "word": "like",
+      "start": 0.4,
+      "end": 0.637
+    },
+    {
+      "word": "to",
+      "start": 0.663,
+      "end": 0.822
+    },
+    {
+      "word": "examine",
+      "start": 0.839,
+      "end": 1.195
+    },
+    {
+      "word": "you",
+      "start": 1.235,
+      "end": 1.432
+    },
+    {
+      "word": "now.",
+      "start": 1.454,
+      "end": 1.889
+    },
+    {
+      "word": "Your",
+      "start": 1.938,
+      "end": 2.175
+    },
+    {
+      "word": "blood",
+      "start": 2.201,
+      "end": 2.478
+    },
+    {
+      "word": "pressure",
+      "start": 2.509,
+      "end": 2.904
+    },
+    {
+      "word": "is",
+      "start": 2.948,
+      "end": 3.106
+    },
+    {
+      "word": "one",
+      "start": 3.124,
+      "end": 3.322
+    },
+    {
+      "word": "hundred",
+      "start": 3.344,
+      "end": 3.7
+    },
+    {
+      "word": "forty",
+      "start": 3.739,
+      "end": 4.016
+    },
+    {
+      "word": "five",
+      "start": 4.047,
+      "end": 4.284
+    },
+    {
+      "word": "over",
+      "start": 4.31,
+      "end": 4.548
+    },
+    {
+      "word": "ninety,",
+      "start": 4.574,
+      "end": 5.128
+    },
+    {
+      "word": "pulse",
+      "start": 5.189,
+      "end": 5.466
+    },
+    {
+      "word": "eighty",
+      "start": 5.497,
+      "end": 5.813
+    },
+    {
+      "word": "eight",
+      "start": 5.848,
+      "end": 6.125
+    },
+    {
+      "word": "and",
+      "start": 6.156,
+      "end": 6.354
+    },
+    {
+      "word": "regular.",
+      "start": 6.376,
+      "end": 6.969
+    },
+    {
+      "word": "Oxygen",
+      "start": 7.035,
+      "end": 7.351
+    },
+    {
+      "word": "saturation",
+      "start": 7.386,
+      "end": 7.861
+    },
+    {
+      "word": "is",
+      "start": 7.913,
+      "end": 8.072
+    },
+    {
+      "word": "ninety",
+      "start": 8.089,
+      "end": 8.406
+    },
+    {
+      "word": "four",
+      "start": 8.441,
+      "end": 8.678
+    },
+    {
+      "word": "percent",
+      "start": 8.704,
+      "end": 9.06
+    },
+    {
+      "word": "on",
+      "start": 9.1,
+      "end": 9.258
+    },
+    {
+      "word": "room",
+      "start": 9.276,
+      "end": 9.513
+    },
+    {
+      "word": "air.",
+      "start": 9.539,
+      "end": 9.974
+    },
+    {
+      "word": "Let",
+      "start": 10.023,
+      "end": 10.22
+    },
+    {
+      "word": "me",
+      "start": 10.242,
+      "end": 10.4
+    },
+    {
+      "word": "listen",
+      "start": 10.418,
+      "end": 10.734
+    },
+    {
+      "word": "to",
+      "start": 10.77,
+      "end": 10.928
+    },
+    {
+      "word": "your",
+      "start": 10.945,
+      "end": 11.183
+    },
+    {
+      "word": "heart",
+      "start": 11.209,
+      "end": 11.486
+    },
+    {
+      "word": "and",
+      "start": 11.517,
+      "end": 11.714
+    },
+    {
+      "word": "lungs.",
+      "start": 11.736,
+      "end": 12.25
+    },
+    {
+      "word": "Taking",
+      "start": 12.307,
+      "end": 12.624
+    },
+    {
+      "word": "a",
+      "start": 12.659,
+      "end": 12.817
+    },
+    {
+      "word": "deep",
+      "start": 12.835,
+      "end": 13.072
+    },
+    {
+      "word": "breath",
+      "start": 13.098,
+      "end": 13.415
+    },
+    {
+      "word": "in,",
+      "start": 13.45,
+      "end": 13.845
+    },
+    {
+      "word": "and",
+      "start": 13.889,
+      "end": 14.087
+    },
+    {
+      "word": "out.",
+      "start": 14.109,
+      "end": 14.544
+    },
+    {
+      "word": "There",
+      "start": 14.592,
+      "end": 14.869
+    },
+    {
+      "word": "are",
+      "start": 14.9,
+      "end": 15.098
+    },
+    {
+      "word": "fine",
+      "start": 15.12,
+      "end": 15.357
+    },
+    {
+      "word": "crackles",
+      "start": 15.383,
+      "end": 15.779
+    },
+    {
+      "word": "at",
+      "start": 15.823,
+      "end": 15.981
+    },
+    {
+      "word": "both",
+      "start": 15.998,
+      "end": 16.236
+    },
+    {
+      "word": "lung",
+      "start": 16.262,
+      "end": 16.499
+    },
+    {
+      "word": "bases,",
+      "start": 16.526,
+      "end": 17.04
+    },
+    {
+      "word": "no",
+      "start": 17.097,
+      "end": 17.255
+    },
+    {
+      "word": "wheeze.",
+      "start": 17.273,
+      "end": 17.826
+    },
+    {
+      "word": "Heart",
+      "start": 17.888,
+      "end": 18.165
+    },
+    {
+      "word": "sounds",
+      "start": 18.195,
+      "end": 18.512
+    },
+    {
+      "word": "are",
+      "start": 18.547,
+      "end": 18.745
+    },
+    {
+      "word": "normal,",
+      "start": 18.767,
+      "end": 19.32
+    },
+    {
+      "word": "no",
+      "start": 19.382,
+      "end": 19.54
+    },
+    {
+      "word": "murmurs",
+      "start": 19.558,
+      "end": 19.914
+    },
+    {
+      "word": "that",
+      "start": 19.953,
+      "end": 20.19
+    },
+    {
+      "word": "I",
+      "start": 20.217,
+      "end": 20.375
+    },
+    {
+      "word": "can",
+      "start": 20.392,
+      "end": 20.59
+    },
+    {
+      "word": "hear.",
+      "start": 20.612,
+      "end": 21.087
+    },
+    {
+      "word": "Your",
+      "start": 21.139,
+      "end": 21.377
+    },
+    {
+      "word": "ankles",
+      "start": 21.403,
+      "end": 21.719
+    },
+    {
+      "word": "show",
+      "start": 21.755,
+      "end": 21.992
+    },
+    {
+      "word": "mild",
+      "start": 22.018,
+      "end": 22.256
+    },
+    {
+      "word": "pitting",
+      "start": 22.282,
+      "end": 22.638
+    },
+    {
+      "word": "oedema,",
+      "start": 22.677,
+      "end": 23.231
+    },
+    {
+      "word": "about",
+      "start": 23.293,
+      "end": 23.569
+    },
+    {
+      "word": "two",
+      "start": 23.6,
+      "end": 23.798
+    },
+    {
+      "word": "plus,",
+      "start": 23.82,
+      "end": 24.294
+    },
+    {
+      "word": "extending",
+      "start": 24.347,
+      "end": 24.782
+    },
+    {
+      "word": "just",
+      "start": 24.83,
+      "end": 25.068
+    },
+    {
+      "word": "above",
+      "start": 25.094,
+      "end": 25.371
+    },
+    {
+      "word": "the",
+      "start": 25.402,
+      "end": 25.599
+    },
+    {
+      "word": "ankle",
+      "start": 25.621,
+      "end": 25.898
+    },
+    {
+      "word": "bone.",
+      "start": 25.929,
+      "end": 26.404
+    },
+    {
+      "word": "The",
+      "start": 26.456,
+      "end": 26.654
+    },
+    {
+      "word": "jugular",
+      "start": 26.676,
+      "end": 27.032
+    },
+    {
+      "word": "veins",
+      "start": 27.071,
+      "end": 27.348
+    },
+    {
+      "word": "are",
+      "start": 27.379,
+      "end": 27.577
+    },
+    {
+      "word": "slightly",
+      "start": 27.599,
+      "end": 27.994
+    },
+    {
+      "word": "raised.",
+      "start": 28.038,
+      "end": 28.592
+    },
+    {
+      "word": "Abdomen",
+      "start": 28.653,
+      "end": 29.009
+    },
+    {
+      "word": "is",
+      "start": 29.049,
+      "end": 29.207
+    },
+    {
+      "word": "soft",
+      "start": 29.224,
+      "end": 29.462
+    },
+    {
+      "word": "and",
+      "start": 29.488,
+      "end": 29.686
+    },
+    {
+      "word": "non",
+      "start": 29.708,
+      "end": 29.906
+    },
+    {
+      "word": "tender.",
+      "start": 29.928,
+      "end": 30.481
+    },
+    {
+      "word": "I'm",
+      "start": 30.543,
+      "end": 30.74
+    },
+    {
+      "word": "also",
+      "start": 30.762,
+      "end": 31.0
+    },
+    {
+      "word": "noting",
+      "start": 31.026,
+      "end": 31.342
+    },
+    {
+      "word": "that",
+      "start": 31.378,
+      "end": 31.615
+    },
+    {
+      "word": "your",
+      "start": 31.641,
+      "end": 31.878
+    },
+    {
+      "word": "breathing",
+      "start": 31.905,
+      "end": 32.34
+    },
+    {
+      "word": "is",
+      "start": 32.388,
+      "end": 32.546
+    },
+    {
+      "word": "a",
+      "start": 32.564,
+      "end": 32.722
+    },
+    {
+      "word": "little",
+      "start": 32.74,
+      "end": 33.056
+    },
+    {
+      "word": "laboured",
+      "start": 33.091,
+      "end": 33.487
+    },
+    {
+      "word": "after",
+      "start": 33.531,
+      "end": 33.807
+    },
+    {
+      "word": "walking",
+      "start": 33.838,
+      "end": 34.194
+    },
+    {
+      "word": "to",
+      "start": 34.234,
+      "end": 34.392
+    },
+    {
+      "word": "the",
+      "start": 34.409,
+      "end": 34.607
+    },
+    {
+      "word": "examination",
+      "start": 34.629,
+      "end": 35.143
+    },
+    {
+      "word": "table.",
+      "start": 35.2,
+      "end": 35.714
+    },
+    {
+      "word": "Overall,",
+      "start": 35.772,
+      "end": 36.365
+    },
+    {
+      "word": "the",
+      "start": 36.431,
+      "end": 36.628
+    },
+    {
+      "word": "findings",
+      "start": 36.65,
+      "end": 37.046
+    },
+    {
+      "word": "suggest",
+      "start": 37.09,
+      "end": 37.446
+    },
+    {
+      "word": "some",
+      "start": 37.485,
+      "end": 37.723
+    },
+    {
+      "word": "fluid",
+      "start": 37.749,
+      "end": 38.026
+    },
+    {
+      "word": "retention.",
+      "start": 38.056,
+      "end": 38.729
+    },
+    {
+      "word": "I",
+      "start": 38.803,
+      "end": 38.962
+    },
+    {
+      "word": "want",
+      "start": 38.979,
+      "end": 39.216
+    },
+    {
+      "word": "to",
+      "start": 39.243,
+      "end": 39.401
+    },
+    {
+      "word": "correlate",
+      "start": 39.419,
+      "end": 39.854
+    },
+    {
+      "word": "this",
+      "start": 39.902,
+      "end": 40.139
+    },
+    {
+      "word": "with",
+      "start": 40.166,
+      "end": 40.403
+    },
+    {
+      "word": "a",
+      "start": 40.429,
+      "end": 40.587
+    },
+    {
+      "word": "few",
+      "start": 40.605,
+      "end": 40.803
+    },
+    {
+      "word": "tests",
+      "start": 40.825,
+      "end": 41.102
+    },
+    {
+      "word": "before",
+      "start": 41.132,
+      "end": 41.449
+    },
+    {
+      "word": "we",
+      "start": 41.484,
+      "end": 41.642
+    },
+    {
+      "word": "discuss",
+      "start": 41.66,
+      "end": 42.015
+    },
+    {
+      "word": "treatment.",
+      "start": 42.055,
+      "end": 42.727
+    }
+  ]
+}

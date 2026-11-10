@@ -1,0 +1,656 @@
+{
+  "part": 1,
+  "duration": 44.251,
+  "words": [
+    {
+      "word": "Good",
+      "start": 0.18,
+      "end": 0.414
+    },
+    {
+      "word": "morning,",
+      "start": 0.44,
+      "end": 1.026
+    },
+    {
+      "word": "Ms.",
+      "start": 1.091,
+      "end": 1.481
+    },
+    {
+      "word": "Sharma.",
+      "start": 1.525,
+      "end": 2.071
+    },
+    {
+      "word": "I'm",
+      "start": 2.132,
+      "end": 2.327
+    },
+    {
+      "word": "Doctor",
+      "start": 2.349,
+      "end": 2.661
+    },
+    {
+      "word": "Mehta,",
+      "start": 2.696,
+      "end": 3.204
+    },
+    {
+      "word": "and",
+      "start": 3.26,
+      "end": 3.455
+    },
+    {
+      "word": "I'll",
+      "start": 3.477,
+      "end": 3.711
+    },
+    {
+      "word": "be",
+      "start": 3.737,
+      "end": 3.893
+    },
+    {
+      "word": "reviewing",
+      "start": 3.911,
+      "end": 4.34
+    },
+    {
+      "word": "your",
+      "start": 4.388,
+      "end": 4.622
+    },
+    {
+      "word": "intake",
+      "start": 4.648,
+      "end": 4.961
+    },
+    {
+      "word": "today.",
+      "start": 4.995,
+      "end": 5.503
+    },
+    {
+      "word": "Before",
+      "start": 5.559,
+      "end": 5.872
+    },
+    {
+      "word": "we",
+      "start": 5.906,
+      "end": 6.062
+    },
+    {
+      "word": "begin,",
+      "start": 6.08,
+      "end": 6.587
+    },
+    {
+      "word": "let",
+      "start": 6.644,
+      "end": 6.839
+    },
+    {
+      "word": "me",
+      "start": 6.861,
+      "end": 7.017
+    },
+    {
+      "word": "confirm",
+      "start": 7.034,
+      "end": 7.386
+    },
+    {
+      "word": "your",
+      "start": 7.425,
+      "end": 7.659
+    },
+    {
+      "word": "details.",
+      "start": 7.685,
+      "end": 8.271
+    },
+    {
+      "word": "You",
+      "start": 8.336,
+      "end": 8.531
+    },
+    {
+      "word": "are",
+      "start": 8.553,
+      "end": 8.748
+    },
+    {
+      "word": "fifty",
+      "start": 8.769,
+      "end": 9.043
+    },
+    {
+      "word": "two",
+      "start": 9.073,
+      "end": 9.268
+    },
+    {
+      "word": "years",
+      "start": 9.29,
+      "end": 9.563
+    },
+    {
+      "word": "old,",
+      "start": 9.594,
+      "end": 10.023
+    },
+    {
+      "word": "and",
+      "start": 10.071,
+      "end": 10.266
+    },
+    {
+      "word": "this",
+      "start": 10.288,
+      "end": 10.522
+    },
+    {
+      "word": "is",
+      "start": 10.548,
+      "end": 10.704
+    },
+    {
+      "word": "your",
+      "start": 10.722,
+      "end": 10.956
+    },
+    {
+      "word": "first",
+      "start": 10.982,
+      "end": 11.255
+    },
+    {
+      "word": "visit",
+      "start": 11.286,
+      "end": 11.559
+    },
+    {
+      "word": "to",
+      "start": 11.589,
+      "end": 11.745
+    },
+    {
+      "word": "our",
+      "start": 11.763,
+      "end": 11.958
+    },
+    {
+      "word": "clinic.",
+      "start": 11.98,
+      "end": 12.526
+    },
+    {
+      "word": "How",
+      "start": 12.587,
+      "end": 12.782
+    },
+    {
+      "word": "can",
+      "start": 12.804,
+      "end": 12.999
+    },
+    {
+      "word": "I",
+      "start": 13.021,
+      "end": 13.177
+    },
+    {
+      "word": "help",
+      "start": 13.194,
+      "end": 13.429
+    },
+    {
+      "word": "you",
+      "start": 13.455,
+      "end": 13.65
+    },
+    {
+      "word": "today?",
+      "start": 13.671,
+      "end": 14.179
+    },
+    {
+      "word": "Thank",
+      "start": 14.235,
+      "end": 14.509
+    },
+    {
+      "word": "you,",
+      "start": 14.539,
+      "end": 14.969
+    },
+    {
+      "word": "doctor.",
+      "start": 15.016,
+      "end": 15.563
+    },
+    {
+      "word": "For",
+      "start": 15.624,
+      "end": 15.819
+    },
+    {
+      "word": "the",
+      "start": 15.841,
+      "end": 16.036
+    },
+    {
+      "word": "past",
+      "start": 16.057,
+      "end": 16.292
+    },
+    {
+      "word": "three",
+      "start": 16.318,
+      "end": 16.591
+    },
+    {
+      "word": "weeks",
+      "start": 16.621,
+      "end": 16.895
+    },
+    {
+      "word": "I've",
+      "start": 16.925,
+      "end": 17.159
+    },
+    {
+      "word": "been",
+      "start": 17.185,
+      "end": 17.42
+    },
+    {
+      "word": "experiencing",
+      "start": 17.446,
+      "end": 17.992
+    },
+    {
+      "word": "shortness",
+      "start": 18.053,
+      "end": 18.482
+    },
+    {
+      "word": "of",
+      "start": 18.53,
+      "end": 18.686
+    },
+    {
+      "word": "breath,",
+      "start": 18.704,
+      "end": 19.25
+    },
+    {
+      "word": "especially",
+      "start": 19.311,
+      "end": 19.78
+    },
+    {
+      "word": "when",
+      "start": 19.832,
+      "end": 20.066
+    },
+    {
+      "word": "I",
+      "start": 20.092,
+      "end": 20.248
+    },
+    {
+      "word": "climb",
+      "start": 20.265,
+      "end": 20.539
+    },
+    {
+      "word": "stairs",
+      "start": 20.569,
+      "end": 20.881
+    },
+    {
+      "word": "or",
+      "start": 20.916,
+      "end": 21.072
+    },
+    {
+      "word": "carry",
+      "start": 21.09,
+      "end": 21.363
+    },
+    {
+      "word": "groceries.",
+      "start": 21.393,
+      "end": 22.057
+    },
+    {
+      "word": "The",
+      "start": 22.131,
+      "end": 22.326
+    },
+    {
+      "word": "tightness",
+      "start": 22.348,
+      "end": 22.777
+    },
+    {
+      "word": "in",
+      "start": 22.825,
+      "end": 22.981
+    },
+    {
+      "word": "my",
+      "start": 22.998,
+      "end": 23.155
+    },
+    {
+      "word": "chest",
+      "start": 23.172,
+      "end": 23.445
+    },
+    {
+      "word": "usually",
+      "start": 23.476,
+      "end": 23.827
+    },
+    {
+      "word": "settles",
+      "start": 23.866,
+      "end": 24.217
+    },
+    {
+      "word": "after",
+      "start": 24.256,
+      "end": 24.53
+    },
+    {
+      "word": "a",
+      "start": 24.56,
+      "end": 24.716
+    },
+    {
+      "word": "few",
+      "start": 24.734,
+      "end": 24.929
+    },
+    {
+      "word": "minutes",
+      "start": 24.951,
+      "end": 25.302
+    },
+    {
+      "word": "of",
+      "start": 25.341,
+      "end": 25.497
+    },
+    {
+      "word": "rest,",
+      "start": 25.514,
+      "end": 25.983
+    },
+    {
+      "word": "but",
+      "start": 26.035,
+      "end": 26.23
+    },
+    {
+      "word": "last",
+      "start": 26.252,
+      "end": 26.486
+    },
+    {
+      "word": "Tuesday",
+      "start": 26.512,
+      "end": 26.864
+    },
+    {
+      "word": "it",
+      "start": 26.903,
+      "end": 27.059
+    },
+    {
+      "word": "lasted",
+      "start": 27.076,
+      "end": 27.389
+    },
+    {
+      "word": "almost",
+      "start": 27.423,
+      "end": 27.736
+    },
+    {
+      "word": "twenty",
+      "start": 27.77,
+      "end": 28.083
+    },
+    {
+      "word": "minutes.",
+      "start": 28.117,
+      "end": 28.703
+    },
+    {
+      "word": "I",
+      "start": 28.768,
+      "end": 28.924
+    },
+    {
+      "word": "also",
+      "start": 28.942,
+      "end": 29.176
+    },
+    {
+      "word": "noticed",
+      "start": 29.202,
+      "end": 29.553
+    },
+    {
+      "word": "some",
+      "start": 29.592,
+      "end": 29.827
+    },
+    {
+      "word": "swelling",
+      "start": 29.853,
+      "end": 30.243
+    },
+    {
+      "word": "around",
+      "start": 30.286,
+      "end": 30.599
+    },
+    {
+      "word": "my",
+      "start": 30.633,
+      "end": 30.79
+    },
+    {
+      "word": "ankles",
+      "start": 30.807,
+      "end": 31.119
+    },
+    {
+      "word": "in",
+      "start": 31.154,
+      "end": 31.31
+    },
+    {
+      "word": "the",
+      "start": 31.328,
+      "end": 31.523
+    },
+    {
+      "word": "evenings.",
+      "start": 31.544,
+      "end": 32.169
+    },
+    {
+      "word": "That",
+      "start": 32.239,
+      "end": 32.473
+    },
+    {
+      "word": "sounds",
+      "start": 32.499,
+      "end": 32.811
+    },
+    {
+      "word": "uncomfortable.",
+      "start": 32.846,
+      "end": 33.666
+    },
+    {
+      "word": "Let's",
+      "start": 33.757,
+      "end": 34.03
+    },
+    {
+      "word": "go",
+      "start": 34.061,
+      "end": 34.217
+    },
+    {
+      "word": "through",
+      "start": 34.234,
+      "end": 34.585
+    },
+    {
+      "word": "this",
+      "start": 34.624,
+      "end": 34.859
+    },
+    {
+      "word": "carefully",
+      "start": 34.885,
+      "end": 35.314
+    },
+    {
+      "word": "so",
+      "start": 35.362,
+      "end": 35.518
+    },
+    {
+      "word": "we",
+      "start": 35.535,
+      "end": 35.692
+    },
+    {
+      "word": "can",
+      "start": 35.709,
+      "end": 35.904
+    },
+    {
+      "word": "understand",
+      "start": 35.926,
+      "end": 36.394
+    },
+    {
+      "word": "what's",
+      "start": 36.446,
+      "end": 36.759
+    },
+    {
+      "word": "happening.",
+      "start": 36.794,
+      "end": 37.457
+    },
+    {
+      "word": "I'd",
+      "start": 37.531,
+      "end": 37.726
+    },
+    {
+      "word": "like",
+      "start": 37.748,
+      "end": 37.982
+    },
+    {
+      "word": "to",
+      "start": 38.008,
+      "end": 38.164
+    },
+    {
+      "word": "ask",
+      "start": 38.182,
+      "end": 38.377
+    },
+    {
+      "word": "about",
+      "start": 38.399,
+      "end": 38.672
+    },
+    {
+      "word": "the",
+      "start": 38.702,
+      "end": 38.897
+    },
+    {
+      "word": "pattern",
+      "start": 38.919,
+      "end": 39.271
+    },
+    {
+      "word": "of",
+      "start": 39.31,
+      "end": 39.466
+    },
+    {
+      "word": "your",
+      "start": 39.483,
+      "end": 39.717
+    },
+    {
+      "word": "symptoms,",
+      "start": 39.743,
+      "end": 40.368
+    },
+    {
+      "word": "your",
+      "start": 40.438,
+      "end": 40.672
+    },
+    {
+      "word": "medical",
+      "start": 40.698,
+      "end": 41.049
+    },
+    {
+      "word": "history,",
+      "start": 41.088,
+      "end": 41.674
+    },
+    {
+      "word": "and",
+      "start": 41.739,
+      "end": 41.934
+    },
+    {
+      "word": "the",
+      "start": 41.956,
+      "end": 42.151
+    },
+    {
+      "word": "medications",
+      "start": 42.173,
+      "end": 42.68
+    },
+    {
+      "word": "you",
+      "start": 42.737,
+      "end": 42.932
+    },
+    {
+      "word": "currently",
+      "start": 42.954,
+      "end": 43.383
+    },
+    {
+      "word": "take.",
+      "start": 43.431,
+      "end": 43.899
+    }
+  ]
+}

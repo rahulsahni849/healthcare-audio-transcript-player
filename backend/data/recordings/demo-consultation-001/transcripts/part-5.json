@@ -1,0 +1,676 @@
+{
+  "part": 5,
+  "duration": 48.222,
+  "words": [
+    {
+      "word": "Here",
+      "start": 0.18,
+      "end": 0.427
+    },
+    {
+      "word": "is",
+      "start": 0.455,
+      "end": 0.62
+    },
+    {
+      "word": "my",
+      "start": 0.638,
+      "end": 0.803
+    },
+    {
+      "word": "assessment.",
+      "start": 0.821,
+      "end": 1.564
+    },
+    {
+      "word": "Your",
+      "start": 1.646,
+      "end": 1.894
+    },
+    {
+      "word": "symptoms",
+      "start": 1.921,
+      "end": 2.333
+    },
+    {
+      "word": "and",
+      "start": 2.379,
+      "end": 2.585
+    },
+    {
+      "word": "examination",
+      "start": 2.608,
+      "end": 3.144
+    },
+    {
+      "word": "point",
+      "start": 3.204,
+      "end": 3.493
+    },
+    {
+      "word": "towards",
+      "start": 3.525,
+      "end": 3.896
+    },
+    {
+      "word": "early",
+      "start": 3.937,
+      "end": 4.226
+    },
+    {
+      "word": "congestive",
+      "start": 4.258,
+      "end": 4.753
+    },
+    {
+      "word": "heart",
+      "start": 4.808,
+      "end": 5.096
+    },
+    {
+      "word": "failure,",
+      "start": 5.128,
+      "end": 5.747
+    },
+    {
+      "word": "possibly",
+      "start": 5.816,
+      "end": 6.228
+    },
+    {
+      "word": "related",
+      "start": 6.274,
+      "end": 6.645
+    },
+    {
+      "word": "to",
+      "start": 6.686,
+      "end": 6.851
+    },
+    {
+      "word": "long",
+      "start": 6.869,
+      "end": 7.117
+    },
+    {
+      "word": "standing",
+      "start": 7.144,
+      "end": 7.557
+    },
+    {
+      "word": "hypertension",
+      "start": 7.602,
+      "end": 8.18
+    },
+    {
+      "word": "and",
+      "start": 8.244,
+      "end": 8.45
+    },
+    {
+      "word": "diabetes.",
+      "start": 8.473,
+      "end": 9.133
+    },
+    {
+      "word": "We",
+      "start": 9.206,
+      "end": 9.371
+    },
+    {
+      "word": "need",
+      "start": 9.389,
+      "end": 9.637
+    },
+    {
+      "word": "to",
+      "start": 9.664,
+      "end": 9.829
+    },
+    {
+      "word": "confirm",
+      "start": 9.848,
+      "end": 10.219
+    },
+    {
+      "word": "this.",
+      "start": 10.26,
+      "end": 10.755
+    },
+    {
+      "word": "I'm",
+      "start": 10.81,
+      "end": 11.016
+    },
+    {
+      "word": "ordering",
+      "start": 11.039,
+      "end": 11.451
+    },
+    {
+      "word": "a",
+      "start": 11.497,
+      "end": 11.662
+    },
+    {
+      "word": "chest",
+      "start": 11.68,
+      "end": 11.969
+    },
+    {
+      "word": "X",
+      "start": 12.001,
+      "end": 12.166
+    },
+    {
+      "word": "ray,",
+      "start": 12.184,
+      "end": 12.638
+    },
+    {
+      "word": "an",
+      "start": 12.688,
+      "end": 12.853
+    },
+    {
+      "word": "ECG,",
+      "start": 12.871,
+      "end": 13.325
+    },
+    {
+      "word": "an",
+      "start": 13.375,
+      "end": 13.54
+    },
+    {
+      "word": "echocardiogram,",
+      "start": 13.559,
+      "end": 14.466
+    },
+    {
+      "word": "and",
+      "start": 14.567,
+      "end": 14.773
+    },
+    {
+      "word": "basic",
+      "start": 14.796,
+      "end": 15.084
+    },
+    {
+      "word": "blood",
+      "start": 15.117,
+      "end": 15.405
+    },
+    {
+      "word": "work",
+      "start": 15.437,
+      "end": 15.685
+    },
+    {
+      "word": "including",
+      "start": 15.712,
+      "end": 16.166
+    },
+    {
+      "word": "kidney",
+      "start": 16.216,
+      "end": 16.546
+    },
+    {
+      "word": "function",
+      "start": 16.583,
+      "end": 16.995
+    },
+    {
+      "word": "and",
+      "start": 17.041,
+      "end": 17.247
+    },
+    {
+      "word": "BNP.",
+      "start": 17.27,
+      "end": 17.724
+    },
+    {
+      "word": "Until",
+      "start": 17.774,
+      "end": 18.063
+    },
+    {
+      "word": "we",
+      "start": 18.095,
+      "end": 18.26
+    },
+    {
+      "word": "meet",
+      "start": 18.278,
+      "end": 18.525
+    },
+    {
+      "word": "again,",
+      "start": 18.553,
+      "end": 19.089
+    },
+    {
+      "word": "I'd",
+      "start": 19.149,
+      "end": 19.355
+    },
+    {
+      "word": "like",
+      "start": 19.378,
+      "end": 19.625
+    },
+    {
+      "word": "you",
+      "start": 19.653,
+      "end": 19.859
+    },
+    {
+      "word": "to",
+      "start": 19.882,
+      "end": 20.047
+    },
+    {
+      "word": "reduce",
+      "start": 20.065,
+      "end": 20.395
+    },
+    {
+      "word": "salt",
+      "start": 20.431,
+      "end": 20.679
+    },
+    {
+      "word": "in",
+      "start": 20.706,
+      "end": 20.871
+    },
+    {
+      "word": "your",
+      "start": 20.89,
+      "end": 21.137
+    },
+    {
+      "word": "diet,",
+      "start": 21.164,
+      "end": 21.659
+    },
+    {
+      "word": "monitor",
+      "start": 21.714,
+      "end": 22.085
+    },
+    {
+      "word": "your",
+      "start": 22.127,
+      "end": 22.374
+    },
+    {
+      "word": "weight",
+      "start": 22.402,
+      "end": 22.731
+    },
+    {
+      "word": "every",
+      "start": 22.768,
+      "end": 23.057
+    },
+    {
+      "word": "morning,",
+      "start": 23.089,
+      "end": 23.707
+    },
+    {
+      "word": "and",
+      "start": 23.776,
+      "end": 23.982
+    },
+    {
+      "word": "let",
+      "start": 24.005,
+      "end": 24.211
+    },
+    {
+      "word": "me",
+      "start": 24.234,
+      "end": 24.399
+    },
+    {
+      "word": "know",
+      "start": 24.418,
+      "end": 24.665
+    },
+    {
+      "word": "if",
+      "start": 24.692,
+      "end": 24.857
+    },
+    {
+      "word": "it",
+      "start": 24.876,
+      "end": 25.041
+    },
+    {
+      "word": "rises",
+      "start": 25.059,
+      "end": 25.348
+    },
+    {
+      "word": "by",
+      "start": 25.38,
+      "end": 25.545
+    },
+    {
+      "word": "two",
+      "start": 25.563,
+      "end": 25.769
+    },
+    {
+      "word": "kilograms",
+      "start": 25.792,
+      "end": 26.246
+    },
+    {
+      "word": "in",
+      "start": 26.296,
+      "end": 26.461
+    },
+    {
+      "word": "three",
+      "start": 26.479,
+      "end": 26.768
+    },
+    {
+      "word": "days.",
+      "start": 26.8,
+      "end": 27.295
+    },
+    {
+      "word": "Continue",
+      "start": 27.35,
+      "end": 27.762
+    },
+    {
+      "word": "your",
+      "start": 27.808,
+      "end": 28.055
+    },
+    {
+      "word": "current",
+      "start": 28.083,
+      "end": 28.454
+    },
+    {
+      "word": "medications;",
+      "start": 28.495,
+      "end": 29.073
+    },
+    {
+      "word": "I'm",
+      "start": 29.137,
+      "end": 29.343
+    },
+    {
+      "word": "adding",
+      "start": 29.366,
+      "end": 29.696
+    },
+    {
+      "word": "a",
+      "start": 29.732,
+      "end": 29.897
+    },
+    {
+      "word": "low",
+      "start": 29.916,
+      "end": 30.122
+    },
+    {
+      "word": "dose",
+      "start": 30.145,
+      "end": 30.392
+    },
+    {
+      "word": "diuretic",
+      "start": 30.42,
+      "end": 30.832
+    },
+    {
+      "word": "to",
+      "start": 30.878,
+      "end": 31.043
+    },
+    {
+      "word": "relieve",
+      "start": 31.061,
+      "end": 31.432
+    },
+    {
+      "word": "the",
+      "start": 31.473,
+      "end": 31.68
+    },
+    {
+      "word": "fluid.",
+      "start": 31.703,
+      "end": 32.239
+    },
+    {
+      "word": "Watch",
+      "start": 32.298,
+      "end": 32.587
+    },
+    {
+      "word": "for",
+      "start": 32.619,
+      "end": 32.825
+    },
+    {
+      "word": "warning",
+      "start": 32.848,
+      "end": 33.219
+    },
+    {
+      "word": "signs:",
+      "start": 33.26,
+      "end": 33.59
+    },
+    {
+      "word": "worsening",
+      "start": 33.627,
+      "end": 34.08
+    },
+    {
+      "word": "breathlessness",
+      "start": 34.131,
+      "end": 34.791
+    },
+    {
+      "word": "at",
+      "start": 34.864,
+      "end": 35.029
+    },
+    {
+      "word": "rest,",
+      "start": 35.047,
+      "end": 35.542
+    },
+    {
+      "word": "chest",
+      "start": 35.597,
+      "end": 35.886
+    },
+    {
+      "word": "pain",
+      "start": 35.918,
+      "end": 36.165
+    },
+    {
+      "word": "lasting",
+      "start": 36.193,
+      "end": 36.564
+    },
+    {
+      "word": "more",
+      "start": 36.605,
+      "end": 36.852
+    },
+    {
+      "word": "than",
+      "start": 36.88,
+      "end": 37.127
+    },
+    {
+      "word": "fifteen",
+      "start": 37.155,
+      "end": 37.526
+    },
+    {
+      "word": "minutes,",
+      "start": 37.567,
+      "end": 38.186
+    },
+    {
+      "word": "or",
+      "start": 38.254,
+      "end": 38.419
+    },
+    {
+      "word": "fainting.",
+      "start": 38.438,
+      "end": 39.098
+    },
+    {
+      "word": "If",
+      "start": 39.171,
+      "end": 39.336
+    },
+    {
+      "word": "any",
+      "start": 39.354,
+      "end": 39.56
+    },
+    {
+      "word": "of",
+      "start": 39.583,
+      "end": 39.748
+    },
+    {
+      "word": "these",
+      "start": 39.766,
+      "end": 40.055
+    },
+    {
+      "word": "occur,",
+      "start": 40.087,
+      "end": 40.623
+    },
+    {
+      "word": "go",
+      "start": 40.683,
+      "end": 40.848
+    },
+    {
+      "word": "to",
+      "start": 40.866,
+      "end": 41.031
+    },
+    {
+      "word": "the",
+      "start": 41.049,
+      "end": 41.256
+    },
+    {
+      "word": "emergency",
+      "start": 41.278,
+      "end": 41.732
+    },
+    {
+      "word": "department",
+      "start": 41.782,
+      "end": 42.277
+    },
+    {
+      "word": "immediately.",
+      "start": 42.332,
+      "end": 43.116
+    },
+    {
+      "word": "Shall",
+      "start": 43.203,
+      "end": 43.491
+    },
+    {
+      "word": "we",
+      "start": 43.524,
+      "end": 43.688
+    },
+    {
+      "word": "schedule",
+      "start": 43.707,
+      "end": 44.119
+    },
+    {
+      "word": "a",
+      "start": 44.165,
+      "end": 44.33
+    },
+    {
+      "word": "follow",
+      "start": 44.348,
+      "end": 44.678
+    },
+    {
+      "word": "up",
+      "start": 44.715,
+      "end": 44.88
+    },
+    {
+      "word": "in",
+      "start": 44.898,
+      "end": 45.063
+    },
+    {
+      "word": "one",
+      "start": 45.081,
+      "end": 45.287
+    },
+    {
+      "word": "week",
+      "start": 45.31,
+      "end": 45.558
+    },
+    {
+      "word": "to",
+      "start": 45.585,
+      "end": 45.75
+    },
+    {
+      "word": "review",
+      "start": 45.769,
+      "end": 46.098
+    },
+    {
+      "word": "your",
+      "start": 46.135,
+      "end": 46.383
+    },
+    {
+      "word": "reports?",
+      "start": 46.41,
+      "end": 47.029
+    },
+    {
+      "word": "Take",
+      "start": 47.097,
+      "end": 47.345
+    },
+    {
+      "word": "care.",
+      "start": 47.372,
+      "end": 47.867
+    }
+  ]
+}

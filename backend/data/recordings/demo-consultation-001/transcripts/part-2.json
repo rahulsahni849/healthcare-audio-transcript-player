@@ -1,0 +1,671 @@
+{
+  "part": 2,
+  "duration": 44.774,
+  "words": [
+    {
+      "word": "Let's",
+      "start": 0.18,
+      "end": 0.457
+    },
+    {
+      "word": "talk",
+      "start": 0.488,
+      "end": 0.725
+    },
+    {
+      "word": "about",
+      "start": 0.751,
+      "end": 1.028
+    },
+    {
+      "word": "the",
+      "start": 1.059,
+      "end": 1.257
+    },
+    {
+      "word": "breathlessness",
+      "start": 1.279,
+      "end": 1.911
+    },
+    {
+      "word": "in",
+      "start": 1.982,
+      "end": 2.14
+    },
+    {
+      "word": "more",
+      "start": 2.157,
+      "end": 2.395
+    },
+    {
+      "word": "detail.",
+      "start": 2.421,
+      "end": 2.975
+    },
+    {
+      "word": "When",
+      "start": 3.036,
+      "end": 3.274
+    },
+    {
+      "word": "did",
+      "start": 3.3,
+      "end": 3.498
+    },
+    {
+      "word": "you",
+      "start": 3.52,
+      "end": 3.717
+    },
+    {
+      "word": "first",
+      "start": 3.739,
+      "end": 4.016
+    },
+    {
+      "word": "notice",
+      "start": 4.047,
+      "end": 4.363
+    },
+    {
+      "word": "it?",
+      "start": 4.398,
+      "end": 4.794
+    },
+    {
+      "word": "It",
+      "start": 4.838,
+      "end": 4.996
+    },
+    {
+      "word": "started",
+      "start": 5.014,
+      "end": 5.37
+    },
+    {
+      "word": "gradually,",
+      "start": 5.409,
+      "end": 6.081
+    },
+    {
+      "word": "about",
+      "start": 6.156,
+      "end": 6.433
+    },
+    {
+      "word": "three",
+      "start": 6.464,
+      "end": 6.741
+    },
+    {
+      "word": "weeks",
+      "start": 6.771,
+      "end": 7.048
+    },
+    {
+      "word": "ago.",
+      "start": 7.079,
+      "end": 7.514
+    },
+    {
+      "word": "At",
+      "start": 7.562,
+      "end": 7.721
+    },
+    {
+      "word": "first",
+      "start": 7.738,
+      "end": 8.015
+    },
+    {
+      "word": "I",
+      "start": 8.046,
+      "end": 8.204
+    },
+    {
+      "word": "felt",
+      "start": 8.221,
+      "end": 8.459
+    },
+    {
+      "word": "it",
+      "start": 8.485,
+      "end": 8.643
+    },
+    {
+      "word": "only",
+      "start": 8.661,
+      "end": 8.898
+    },
+    {
+      "word": "after",
+      "start": 8.925,
+      "end": 9.201
+    },
+    {
+      "word": "long",
+      "start": 9.232,
+      "end": 9.469
+    },
+    {
+      "word": "walks,",
+      "start": 9.496,
+      "end": 10.01
+    },
+    {
+      "word": "but",
+      "start": 10.067,
+      "end": 10.265
+    },
+    {
+      "word": "now",
+      "start": 10.287,
+      "end": 10.484
+    },
+    {
+      "word": "even",
+      "start": 10.506,
+      "end": 10.744
+    },
+    {
+      "word": "one",
+      "start": 10.77,
+      "end": 10.968
+    },
+    {
+      "word": "flight",
+      "start": 10.99,
+      "end": 11.306
+    },
+    {
+      "word": "of",
+      "start": 11.341,
+      "end": 11.5
+    },
+    {
+      "word": "stairs",
+      "start": 11.517,
+      "end": 11.834
+    },
+    {
+      "word": "leaves",
+      "start": 11.869,
+      "end": 12.185
+    },
+    {
+      "word": "me",
+      "start": 12.22,
+      "end": 12.378
+    },
+    {
+      "word": "winded.",
+      "start": 12.396,
+      "end": 12.95
+    },
+    {
+      "word": "Do",
+      "start": 13.011,
+      "end": 13.169
+    },
+    {
+      "word": "you",
+      "start": 13.187,
+      "end": 13.385
+    },
+    {
+      "word": "experience",
+      "start": 13.407,
+      "end": 13.881
+    },
+    {
+      "word": "any",
+      "start": 13.934,
+      "end": 14.132
+    },
+    {
+      "word": "pain",
+      "start": 14.154,
+      "end": 14.391
+    },
+    {
+      "word": "along",
+      "start": 14.417,
+      "end": 14.694
+    },
+    {
+      "word": "with",
+      "start": 14.725,
+      "end": 14.962
+    },
+    {
+      "word": "the",
+      "start": 14.989,
+      "end": 15.186
+    },
+    {
+      "word": "chest",
+      "start": 15.208,
+      "end": 15.485
+    },
+    {
+      "word": "tightness?",
+      "start": 15.516,
+      "end": 16.188
+    },
+    {
+      "word": "There",
+      "start": 16.263,
+      "end": 16.54
+    },
+    {
+      "word": "is",
+      "start": 16.57,
+      "end": 16.729
+    },
+    {
+      "word": "a",
+      "start": 16.746,
+      "end": 16.904
+    },
+    {
+      "word": "dull",
+      "start": 16.922,
+      "end": 17.159
+    },
+    {
+      "word": "pressure,",
+      "start": 17.186,
+      "end": 17.818
+    },
+    {
+      "word": "right",
+      "start": 17.889,
+      "end": 18.166
+    },
+    {
+      "word": "behind",
+      "start": 18.196,
+      "end": 18.513
+    },
+    {
+      "word": "the",
+      "start": 18.548,
+      "end": 18.746
+    },
+    {
+      "word": "breastbone,",
+      "start": 18.768,
+      "end": 19.479
+    },
+    {
+      "word": "but",
+      "start": 19.559,
+      "end": 19.756
+    },
+    {
+      "word": "no",
+      "start": 19.778,
+      "end": 19.936
+    },
+    {
+      "word": "sharp",
+      "start": 19.954,
+      "end": 20.231
+    },
+    {
+      "word": "pain.",
+      "start": 20.262,
+      "end": 20.736
+    },
+    {
+      "word": "It",
+      "start": 20.789,
+      "end": 20.947
+    },
+    {
+      "word": "never",
+      "start": 20.965,
+      "end": 21.242
+    },
+    {
+      "word": "radiates",
+      "start": 21.272,
+      "end": 21.668
+    },
+    {
+      "word": "to",
+      "start": 21.712,
+      "end": 21.87
+    },
+    {
+      "word": "my",
+      "start": 21.888,
+      "end": 22.046
+    },
+    {
+      "word": "arm",
+      "start": 22.063,
+      "end": 22.261
+    },
+    {
+      "word": "or",
+      "start": 22.283,
+      "end": 22.441
+    },
+    {
+      "word": "jaw.",
+      "start": 22.459,
+      "end": 22.894
+    },
+    {
+      "word": "On",
+      "start": 22.942,
+      "end": 23.1
+    },
+    {
+      "word": "a",
+      "start": 23.118,
+      "end": 23.276
+    },
+    {
+      "word": "scale",
+      "start": 23.294,
+      "end": 23.571
+    },
+    {
+      "word": "of",
+      "start": 23.601,
+      "end": 23.759
+    },
+    {
+      "word": "one",
+      "start": 23.777,
+      "end": 23.975
+    },
+    {
+      "word": "to",
+      "start": 23.997,
+      "end": 24.155
+    },
+    {
+      "word": "ten,",
+      "start": 24.173,
+      "end": 24.608
+    },
+    {
+      "word": "the",
+      "start": 24.656,
+      "end": 24.854
+    },
+    {
+      "word": "pressure",
+      "start": 24.876,
+      "end": 25.271
+    },
+    {
+      "word": "stays",
+      "start": 25.315,
+      "end": 25.592
+    },
+    {
+      "word": "around",
+      "start": 25.623,
+      "end": 25.939
+    },
+    {
+      "word": "three",
+      "start": 25.974,
+      "end": 26.251
+    },
+    {
+      "word": "or",
+      "start": 26.282,
+      "end": 26.44
+    },
+    {
+      "word": "four.",
+      "start": 26.458,
+      "end": 26.932
+    },
+    {
+      "word": "Does",
+      "start": 26.985,
+      "end": 27.222
+    },
+    {
+      "word": "it",
+      "start": 27.248,
+      "end": 27.407
+    },
+    {
+      "word": "wake",
+      "start": 27.424,
+      "end": 27.662
+    },
+    {
+      "word": "you",
+      "start": 27.688,
+      "end": 27.886
+    },
+    {
+      "word": "at",
+      "start": 27.908,
+      "end": 28.066
+    },
+    {
+      "word": "night?",
+      "start": 28.083,
+      "end": 28.598
+    },
+    {
+      "word": "Sometimes,",
+      "start": 28.655,
+      "end": 29.327
+    },
+    {
+      "word": "if",
+      "start": 29.402,
+      "end": 29.56
+    },
+    {
+      "word": "I",
+      "start": 29.577,
+      "end": 29.736
+    },
+    {
+      "word": "lie",
+      "start": 29.753,
+      "end": 29.951
+    },
+    {
+      "word": "flat.",
+      "start": 29.973,
+      "end": 30.447
+    },
+    {
+      "word": "I",
+      "start": 30.5,
+      "end": 30.658
+    },
+    {
+      "word": "keep",
+      "start": 30.676,
+      "end": 30.913
+    },
+    {
+      "word": "two",
+      "start": 30.94,
+      "end": 31.137
+    },
+    {
+      "word": "pillows",
+      "start": 31.159,
+      "end": 31.515
+    },
+    {
+      "word": "now,",
+      "start": 31.555,
+      "end": 31.99
+    },
+    {
+      "word": "and",
+      "start": 32.038,
+      "end": 32.236
+    },
+    {
+      "word": "that",
+      "start": 32.258,
+      "end": 32.495
+    },
+    {
+      "word": "helps.",
+      "start": 32.522,
+      "end": 33.036
+    },
+    {
+      "word": "Any",
+      "start": 33.093,
+      "end": 33.291
+    },
+    {
+      "word": "coughing",
+      "start": 33.313,
+      "end": 33.708
+    },
+    {
+      "word": "or",
+      "start": 33.752,
+      "end": 33.91
+    },
+    {
+      "word": "wheezing?",
+      "start": 33.928,
+      "end": 34.56
+    },
+    {
+      "word": "A",
+      "start": 34.631,
+      "end": 34.789
+    },
+    {
+      "word": "dry",
+      "start": 34.807,
+      "end": 35.004
+    },
+    {
+      "word": "cough",
+      "start": 35.026,
+      "end": 35.303
+    },
+    {
+      "word": "at",
+      "start": 35.334,
+      "end": 35.492
+    },
+    {
+      "word": "night,",
+      "start": 35.51,
+      "end": 36.024
+    },
+    {
+      "word": "occasionally.",
+      "start": 36.081,
+      "end": 36.872
+    },
+    {
+      "word": "Have",
+      "start": 36.96,
+      "end": 37.197
+    },
+    {
+      "word": "you",
+      "start": 37.223,
+      "end": 37.421
+    },
+    {
+      "word": "noticed",
+      "start": 37.443,
+      "end": 37.799
+    },
+    {
+      "word": "palpitations,",
+      "start": 37.839,
+      "end": 38.63
+    },
+    {
+      "word": "dizziness,",
+      "start": 38.717,
+      "end": 39.39
+    },
+    {
+      "word": "or",
+      "start": 39.464,
+      "end": 39.623
+    },
+    {
+      "word": "fainting",
+      "start": 39.64,
+      "end": 40.036
+    },
+    {
+      "word": "spells?",
+      "start": 40.08,
+      "end": 40.633
+    },
+    {
+      "word": "Some",
+      "start": 40.695,
+      "end": 40.932
+    },
+    {
+      "word": "light",
+      "start": 40.958,
+      "end": 41.235
+    },
+    {
+      "word": "headedness",
+      "start": 41.266,
+      "end": 41.741
+    },
+    {
+      "word": "when",
+      "start": 41.793,
+      "end": 42.031
+    },
+    {
+      "word": "I",
+      "start": 42.057,
+      "end": 42.215
+    },
+    {
+      "word": "stand",
+      "start": 42.233,
+      "end": 42.51
+    },
+    {
+      "word": "up",
+      "start": 42.54,
+      "end": 42.699
+    },
+    {
+      "word": "quickly,",
+      "start": 42.716,
+      "end": 43.309
+    },
+    {
+      "word": "but",
+      "start": 43.375,
+      "end": 43.573
+    },
+    {
+      "word": "no",
+      "start": 43.595,
+      "end": 43.753
+    },
+    {
+      "word": "fainting.",
+      "start": 43.771,
+      "end": 44.404
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "recordings": [
+    {
+      "id": "demo-consultation-001",
+      "title": "Consultation \u2014 Patient Intake",
+      "parts": [
+        {
+          "index": 1,
+          "file": "parts/part-1.mp3",
+          "duration": 44.251
+        },
+        {
+          "index": 2,
+          "file": "parts/part-2.mp3",
+          "duration": 44.774
+        },
+        {
+          "index": 3,
+          "file": "parts/part-3.mp3",
+          "duration": 51.566
+        },
+        {
+          "index": 4,
+          "file": "parts/part-4.mp3",
+          "duration": 43.102
+        },
+        {
+          "index": 5,
+          "file": "parts/part-5.mp3",
+          "duration": 48.222
+        }
+      ]
+    }
+  ]
+}
